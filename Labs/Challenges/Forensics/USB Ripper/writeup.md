@@ -3,7 +3,7 @@
 
 ## Writeup by **`Arijit-Bhowmick`** aka **`sys41414141`**
 
-[![Challenge Details](Images/challenge_description.png)]
+![Challenge Details](Images/challenge_description.png)
 
 ### Challenge Description
 
