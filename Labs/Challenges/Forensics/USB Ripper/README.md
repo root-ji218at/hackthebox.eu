@@ -3,7 +3,7 @@
 
 ### Challenge Description
 
-[![Challenge Details](Images/challege_description.png)]
+![Challenge Details](Images/challenge_description.png)
 
 ### Challenge Description
 
