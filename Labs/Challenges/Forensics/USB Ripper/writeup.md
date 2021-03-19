@@ -3,7 +3,7 @@
 
 ## Writeup by **`Arijit-Bhowmick`** aka **`sys41414141`**
 
-[![Challenge Details](Images/challege_description.png)]
+[![Challenge Details](Images/challenge_description.png)]
 
 ### Challenge Description
 
@@ -118,12 +118,12 @@ At last all the un-recognized **Serial Numbers** will be listed in `invalid_seri
 
 ### After Running the script
 
-[![un-recognized_serials](Images/invalid_serials.png)]
+![un-recognized_serials](Images/invalid_serials.png)
 
 ## Cracking
 
 Then I have used ***https://crackstation.net*** to crack the hash that is listed in `invalid_serials.txt` file.
 
-[![Cracked_hash](Images/cracked_hash.png)]
+![Cracked_hash](Images/cracked_hash.png)
 
 At last the Flag of this challenge would be `HTB{mychemicalromance}`
