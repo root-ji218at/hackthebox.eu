@@ -1,8 +1,6 @@
 # HackTheBox [LAB-challenge]
 ## CHALLENGE NAME : USB Ripper
 
-### Challenge Description
-
 ![Challenge Details](Images/challenge_description.png)
 
 ### Challenge Description
