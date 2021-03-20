@@ -1,4 +1,4 @@
-# HackTheBox [LAB-challenge]
+# HackTheBox [LAB-challenge] (Forensics)
 ## CHALLENGE NAME : USB Ripper
 
 ### Challenge Description
