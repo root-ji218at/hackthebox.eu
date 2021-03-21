@@ -46,7 +46,8 @@ Here it says about the SSTI exploit.
 
 After modifying the provided url to `http://46.101.92.17:31311/{{41+41}}`
 
-I have noticed that the returned result calculates the value.
+I have noticed that the returned result evaluates the value.
+
 ![test_exploit](Images/test_exploit_1.png)
 
 #
