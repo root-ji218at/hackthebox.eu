@@ -16,8 +16,9 @@ A Junior Developer just switched to a new source control platform. Can you find 
 ## SOLUTION
 
 Download the zip file provide by the challenge.
+The Password for the zip file would be `hackthebox`
 
-First of all I unzip the files from zip file using the command `unzip Illumination.zip`
+First of all unzip the files from zip file using the command `unzip Illumination.zip`
 
 ![Unzip_Files](Images/unzip_compressed_file.png)
 
@@ -38,7 +39,6 @@ Here we can see the `token` is shown at the end of the file.
 ![token](Images/token.png)
 
 Let us decode the `base64` encoding of  the token value.
-Here, I have used `echo SFRCe3YzcnNpMG5fYzBudHIwbF9hbV9JX3JpZ2h0P30= | base64 -d` to decode the value.
-and this is how I got the **Flag** for this challenge.
+Here, I have decode the token value, and this is how I got the **Flag** for this challenge.
 
 ![flag](Images/flag.png)
