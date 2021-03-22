@@ -58,7 +58,7 @@ Yeah it's `DOM XSS` and it worked here :)
 But this is not, how I solved the challenge.
 I didn't find anything after that as I am not an expert in Web challenges as for now.
 #
-### Solution :
+## Solution :
 
 So I thought of using special characters in the **Login** and **Password** Fields.
 After, using 2-3 special character, I got a blank page while using `\` in **Login** and **Password** fields.
@@ -121,12 +121,13 @@ for uname_chr in char:
 ```
 
 After searching about this exploit, I found a website, and it has a similar behavior as the Webapp.
+
 https://www.netsparker.com/blog/web-security/ldap-injection-how-to-prevent/
 
 And I thought, may be it is as `LDAP Injection`
 And, it was absolutely new to me :)
 
-After reading, a for quite a bit. I thought of writing another `Bruteforce script` for finding `username` and `password`
+After reading, it for quite a bit. I thought of writing another `Bruteforce script` for finding `username` and `password`
 
 At first I thought that I have to find both `username` and `password` to solve the challenge, but in fact we actually don't require a username to solve the challenge XD
 
