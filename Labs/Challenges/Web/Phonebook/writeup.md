@@ -124,7 +124,7 @@ After searching about this exploit, I found a website, and it has a similar beha
 
 https://www.netsparker.com/blog/web-security/ldap-injection-how-to-prevent/
 
-And I thought, may be it is as `LDAP Injection`
+And I thought, may be it is a `LDAP Injection`
 And, it was absolutely new to me :)
 
 After reading, it for quite a bit. I thought of writing another `Bruteforce script` for finding `username` and `password`
